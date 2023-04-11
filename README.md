@@ -4,7 +4,7 @@
     <a href="https://github.com/Victorlima1488">
     <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api?username=victorlima1488&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorlima1488&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+  </div> 
    <div style="display: inline_block"><br>
     <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
     <img align="center" alt="victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
