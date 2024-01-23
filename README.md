@@ -1,6 +1,6 @@
 # Hi, I'm Victor Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-### Volunteer Software Developer at @SouJuniorLabs and @Dev'OreClub
+### Volunteer Developer at @SouJuniorLabs and @Dev'OreClub
 #### 24 years
 #### Paraíba, Brazil 📍
 
